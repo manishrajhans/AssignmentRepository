@@ -1,6 +1,3 @@
-Use this format while naming files.
-
-
 Employee ID:	46221769
 
 Employee Name: NISHANT SINGH TOMAR
